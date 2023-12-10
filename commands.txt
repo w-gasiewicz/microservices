@@ -1,5 +1,6 @@
 DOCKER:
-
+docker build -t wgasiewicz/commandservice . -> budowanie obrazu kontenera na podstawie Dockerfile
+docker push wgasiewicz/commandservice -> pushowanie obrazu na repo np. docker hub
 
 KUBERNETES:
 kubectl version -> wersja serwera i klienta kubernetes
@@ -7,6 +8,8 @@ kubectl apply -f platforms-depl.yaml -> uruchomienie pliku z deployem
 kubectl get deployments -> lista deployow
 kubectl get pods -> lista podow
 kubectl get services -> lista serwisow, można pobrać port zeby mieć dostęp przez kubernetesa
+
+kubectl rollout restart deployment platforms-depl   - restart deploya o nazwie platforms-depl
 
 przez ustawienie replicas na 1 w spec, pod zawsze będzie ustawiał jeden działający kontener.
 Można to wywalić usuwając deployment -> kubectl delete deployment platforms-depl
