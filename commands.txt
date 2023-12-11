@@ -15,3 +15,4 @@ przez ustawienie replicas na 1 w spec, pod zawsze będzie ustawiał jeden dział
 Można to wywalić usuwając deployment -> kubectl delete deployment platforms-depl
 
 Node Port - pozwala na zewnętrzny dostęp do podow
+kubectl create secret generic mssql --from-literal=SA_PASSWORD="pa55word!" - utworzenie secret o nazwie mssql i hasle pa55word!
