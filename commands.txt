@@ -16,3 +16,5 @@ Można to wywalić usuwając deployment -> kubectl delete deployment platforms-d
 
 Node Port - pozwala na zewnętrzny dostęp do podow
 kubectl create secret generic mssql --from-literal=SA_PASSWORD="pa55word!" - utworzenie secret o nazwie mssql i hasle pa55word!
+
+kubectl delete deployment commands-depl - usuniecie deploya o nazwie commands-depl

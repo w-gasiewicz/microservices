@@ -33,3 +33,5 @@ E:\lesjackson\CommandsService\obj\Debug\net7.0\refint\CommandsService.dll
 E:\lesjackson\CommandsService\obj\Debug\net7.0\CommandsService.pdb
 E:\lesjackson\CommandsService\obj\Debug\net7.0\CommandsService.genruntimeconfig.cache
 E:\lesjackson\CommandsService\obj\Debug\net7.0\ref\CommandsService.dll
+E:\lesjackson\CommandsService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\lesjackson\CommandsService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
