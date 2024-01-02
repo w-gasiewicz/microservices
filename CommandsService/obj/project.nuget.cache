@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tZ5gtvuXEYF/kJw+bO/M+7ePAgZwVCSGbSSniQfAPxMaYniW0g9HuTKVf2BiOu7Rrd4lCfTno0XrWp2enqqaxg==",
+  "dgSpecHash": "Fnngr898W5XcevDyS36paSpvNwbWJfR8z1HwrlDqmvCGyrerc+J7jXBTCIGjd9JAHdNE51GtsKCaZQyg8NA5qQ==",
   "success": true,
   "projectFilePath": "E:\\lesjackson\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\Wojtek\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Wojtek\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Wojtek\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0\\microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wojtek\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.0\\microsoft.entityframeworkcore.inmemory.7.0.0.nupkg.sha512",
     "C:\\Users\\Wojtek\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Wojtek\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Wojtek\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
