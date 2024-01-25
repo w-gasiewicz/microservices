@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DXtgD8NK0zQdbhyVR8IZHB955jPdmWK/fOiOVhHNKdFpcl0cgIdXCh6f9W3L+W+MktSTil+deaJYdmYPvNYlGQ==",
+  "dgSpecHash": "x99UESbjXs+yIOQMZglZeslUj+Og7MM2Moixoa3JXuKPpN+/poU3lU6GaRiH+JwCnWiTIJ8qH0iiAzt0LWcf0A==",
   "success": true,
-  "projectFilePath": "e:\\lesjackson\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "E:\\lesjackson\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wojtek\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Wojtek\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

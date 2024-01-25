@@ -77,3 +77,4 @@ E:\lesjackson\PlatformService\obj\Debug\net7.0\refint\PlatformService.dll
 E:\lesjackson\PlatformService\obj\Debug\net7.0\PlatformService.pdb
 E:\lesjackson\PlatformService\obj\Debug\net7.0\PlatformService.genruntimeconfig.cache
 E:\lesjackson\PlatformService\obj\Debug\net7.0\ref\PlatformService.dll
+E:\lesjackson\PlatformService\bin\Debug\net7.0\RabbitMQ.Client.dll
