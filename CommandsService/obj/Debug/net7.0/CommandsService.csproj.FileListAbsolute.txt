@@ -36,3 +36,5 @@ E:\lesjackson\CommandsService\obj\Debug\net7.0\ref\CommandsService.dll
 E:\lesjackson\CommandsService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 E:\lesjackson\CommandsService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 E:\lesjackson\CommandsService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\lesjackson\CommandsService\bin\Debug\net7.0\appsettings.Production.json
+E:\lesjackson\CommandsService\bin\Debug\net7.0\RabbitMQ.Client.dll
