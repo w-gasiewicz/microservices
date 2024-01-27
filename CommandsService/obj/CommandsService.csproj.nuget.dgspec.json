@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\lesjackson\\CommandsService\\CommandsService.csproj": {}
+    "e:\\lesjackson\\CommandsService\\CommandsService.csproj": {}
   },
   "projects": {
-    "E:\\lesjackson\\CommandsService\\CommandsService.csproj": {
+    "e:\\lesjackson\\CommandsService\\CommandsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\lesjackson\\CommandsService\\CommandsService.csproj",
+        "projectUniqueName": "e:\\lesjackson\\CommandsService\\CommandsService.csproj",
         "projectName": "CommandsService",
-        "projectPath": "E:\\lesjackson\\CommandsService\\CommandsService.csproj",
+        "projectPath": "e:\\lesjackson\\CommandsService\\CommandsService.csproj",
         "packagesPath": "C:\\Users\\Wojtek\\.nuget\\packages\\",
-        "outputPath": "E:\\lesjackson\\CommandsService\\obj\\",
+        "outputPath": "e:\\lesjackson\\CommandsService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,6 +60,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
